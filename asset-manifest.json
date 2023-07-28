@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad521516.css",
-    "main.js": "/static/js/main.b57fda6d.js",
+    "main.css": "/static/css/main.7d7df102.css",
+    "main.js": "/static/js/main.519aded4.js",
     "static/media/YsabeauSC-VariableFont_wght.ttf": "/static/media/YsabeauSC-VariableFont_wght.b556c9de80a323c7b6f9.ttf",
     "static/media/BigShouldersStencilText-VariableFont_wght.ttf": "/static/media/BigShouldersStencilText-VariableFont_wght.eb44e824c2d7af53b77a.ttf",
     "static/media/BigShouldersStencilText-Bold.ttf": "/static/media/BigShouldersStencilText-Bold.9d50aaf75f7aaca488d2.ttf",
     "static/media/blackLight1.jpg": "/static/media/blackLight1.5837c7cf0425fc104756.jpg",
     "index.html": "/index.html",
-    "main.ad521516.css.map": "/static/css/main.ad521516.css.map",
-    "main.b57fda6d.js.map": "/static/js/main.b57fda6d.js.map"
+    "main.7d7df102.css.map": "/static/css/main.7d7df102.css.map",
+    "main.519aded4.js.map": "/static/js/main.519aded4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad521516.css",
-    "static/js/main.b57fda6d.js"
+    "static/css/main.7d7df102.css",
+    "static/js/main.519aded4.js"
   ]
 }
